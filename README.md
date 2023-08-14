@@ -10,7 +10,8 @@ Bu C# konsol uygulaması, kullanıcılara günlüklerini kaydetmeleri ve okumala
 * Kullanıcı hatalı şifre girişi durumunda tekrar deneyebilir.
 
 ## Ekran Görüntüleri
-![GunlukUygulamasi](https://github.com/MirayDurgun/Gunluk_Yazma/assets/117771962/2eeb537f-6b1e-43ec-a01f-101a12448cff)
+![Gunluk](https://raw.githubusercontent.com/MirayDurgun/Gunluk_Yazma/main/assets/117771962/2eeb537f-6b1e-43ec-a01f-101a12448cff.png)
+
 ![2023-08-14 13 24 36](https://github.com/MirayDurgun/Gunluk_Yazma/assets/117771962/2eeb537f-6b1e-43ec-a01f-101a12448cff)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 ![2023-08-14 13 25 14](https://github.com/MirayDurgun/Gunluk_Yazma/assets/117771962/d732cfc5-a7b5-4865-bce9-0ec138be2e0a)
